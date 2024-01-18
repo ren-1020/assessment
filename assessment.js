@@ -161,4 +161,4 @@ function test() {
   console.log('同じ名前なら、同じ結果を出力することのテスト終了');
 }
 
-test();
+test(); 
